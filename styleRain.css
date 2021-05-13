@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 12vw 76vw 12vw;
+    grid-template-rows: 92vh;
+    cursor: move;
+   
+}
+.sidebar-1{
+    margin-left: 20px;
+}
+.sidebar-2{
+    margin-left: 20px;
+}
+.grid-3{
+    margin-left: 14px;
+}
+.range{
+    margin-left: 20px;
+}
+#dot1 {
+    height: 15px;
+    width: 15px;
+    background-color:rgb(180, 199, 237);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #dot2 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(93, 142, 240);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #dot3 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(7, 86, 242);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #dot4 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(1, 28, 82);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #dot5 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(245, 152, 156);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #dot6 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(247, 64, 72);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #dot7 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(250, 2, 13);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #dot8 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(125, 0, 6);
+    border-radius: 50%;
+    display: inline-block;
+  }
+  #dot9 {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(0,0,0);
+    border-radius: 50%;
+    display: inline-block;
+  }

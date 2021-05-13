@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Places in Cachar District.kml</name>
+	<open>1</open>
+	<Style id="falseColor">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>ID_0</b></td><td>$[1/ID_0]</td></tr>
+  <tr><td><b>ISO</b></td><td>$[1/ISO]</td></tr>
+  <tr><td><b>NAME_0</b></td><td>$[1/NAME_0]</td></tr>
+  <tr><td><b>ID_1</b></td><td>$[1/ID_1]</td></tr>
+  <tr><td><b>NAME_1</b></td><td>$[1/NAME_1]</td></tr>
+  <tr><td><b>ID_2</b></td><td>$[1/ID_2]</td></tr>
+  <tr><td><b>NAME_2</b></td><td>$[1/NAME_2]</td></tr>
+  <tr><td><b>TYPE_2</b></td><td>$[1/TYPE_2]</td></tr>
+  <tr><td><b>ENGTYPE_2</b></td><td>$[1/ENGTYPE_2]</td></tr>
+  <tr><td><b>NL_NAME_2</b></td><td>$[1/NL_NAME_2]</td></tr>
+  <tr><td><b>VARNAME_2</b></td><td>$[1/VARNAME_2]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="falseColor0">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>ID_0</b></td><td>$[1/ID_0]</td></tr>
+  <tr><td><b>ISO</b></td><td>$[1/ISO]</td></tr>
+  <tr><td><b>NAME_0</b></td><td>$[1/NAME_0]</td></tr>
+  <tr><td><b>ID_1</b></td><td>$[1/ID_1]</td></tr>
+  <tr><td><b>NAME_1</b></td><td>$[1/NAME_1]</td></tr>
+  <tr><td><b>ID_2</b></td><td>$[1/ID_2]</td></tr>
+  <tr><td><b>NAME_2</b></td><td>$[1/NAME_2]</td></tr>
+  <tr><td><b>TYPE_2</b></td><td>$[1/TYPE_2]</td></tr>
+  <tr><td><b>ENGTYPE_2</b></td><td>$[1/ENGTYPE_2]</td></tr>
+  <tr><td><b>NL_NAME_2</b></td><td>$[1/NL_NAME_2]</td></tr>
+  <tr><td><b>VARNAME_2</b></td><td>$[1/VARNAME_2]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<colorMode>random</colorMode>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Places in Cachar District</name>
+		<open>1</open>
+		<Document>
+			<name>1._Cachar_District_boundary.shp</name>
+			<open>1</open>
+		</Document>
+		<Placemark>
+			<name>1.Assam University Silchar</name>
+			<description>Assam University Silchar</description>
+			<LookAt>
+				<longitude>92.75122558049344</longitude>
+				<latitude>24.68995320011373</latitude>
+				<altitude>0</altitude>
+				<heading>0.00109784867162471</heading>
+				<tilt>30.00005286590144</tilt>
+				<range>14.89658502295724</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.75122701876535,24.6899440752977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2.Silchar Polytechnic</name>
+			<description>Silchar Polytechnic</description>
+			<LookAt>
+				<longitude>92.79516961621238</longitude>
+				<latitude>24.78674720138892</latitude>
+				<altitude>0</altitude>
+				<heading>-7.202300708082978</heading>
+				<tilt>31.0467053535875</tilt>
+				<range>30.59611755114284</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79516992238425,24.78676584510252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3.Silchar Medical College</name>
+			<description>Silchar Medical College</description>
+			<LookAt>
+				<longitude>92.79478457242423</longitude>
+				<latitude>24.77578704978432</latitude>
+				<altitude>0</altitude>
+				<heading>-2.789063560084449</heading>
+				<tilt>34.34349287588016</tilt>
+				<range>29.81035269150973</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79484946680314,24.77580201951249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4.National Institute of Technology Silchar</name>
+			<description>National Institute of Technology Silchar</description>
+			<LookAt>
+				<longitude>92.79026356638026</longitude>
+				<latitude>24.75749835568897</latitude>
+				<altitude>0</altitude>
+				<heading>-2.790444799747178</heading>
+				<tilt>29.21494353126116</tilt>
+				<range>10.96145871562199</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79026977295214,24.7575268580301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5.Silchar</name>
+			<description>Silchar</description>
+			<LookAt>
+				<longitude>92.78010922147665</longitude>
+				<latitude>24.83206131054767</latitude>
+				<altitude>0</altitude>
+				<heading>-2.81526238182505</heading>
+				<tilt>22.19394242175589</tilt>
+				<range>1234.852935676485</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.77887998756255,24.83318367961418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>62.The Cachar Club</name>
+			<description>The Cachar Club</description>
+			<LookAt>
+				<longitude>92.79982824644914</longitude>
+				<latitude>24.82945930542146</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5844638523471666</heading>
+				<tilt>27.03291629389288</tilt>
+				<range>27.5647329171997</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79984627053057,24.82944733091337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6.District Library</name>
+			<description>District Library</description>
+			<LookAt>
+				<longitude>92.79781236826712</longitude>
+				<latitude>24.82859908651479</latitude>
+				<altitude>0</altitude>
+				<heading>-1.558781830731572</heading>
+				<tilt>44.60912392649078</tilt>
+				<range>62.59294589578665</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79787519069342,24.8285930202079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7.Madhab Chandra Das College</name>
+			<description>Madhab Chandra Das College</description>
+			<LookAt>
+				<longitude>92.87866750848431</longitude>
+				<latitude>24.7188886912329</latitude>
+				<altitude>0</altitude>
+				<heading>5.064340195456838</heading>
+				<tilt>21.33729622045318</tilt>
+				<range>26.49572715651784</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.87871160031179,24.71889217531277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8.GC College</name>
+			<description>GC College</description>
+			<LookAt>
+				<longitude>92.79105926390416</longitude>
+				<latitude>24.81664305434708</latitude>
+				<altitude>0</altitude>
+				<heading>3.55602015745239</heading>
+				<tilt>17.19286616189129</tilt>
+				<range>125.4250061233086</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79100347525286,24.81692657803308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9.ASTC Bus Stand</name>
+			<description>ASTC Bus Stand</description>
+			<LookAt>
+				<longitude>92.79385400550838</longitude>
+				<latitude>24.80599534539021</latitude>
+				<altitude>0</altitude>
+				<heading>3.557021593127438</heading>
+				<tilt>26.8598092024698</tilt>
+				<range>710.9835870517926</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79515045536434,24.80522322291077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>10.H.D.Memorial Jr College</name>
+			<description>H.D.Memorial Jr College</description>
+			<LookAt>
+				<longitude>92.79134081246963</longitude>
+				<latitude>24.80733328167516</latitude>
+				<altitude>0</altitude>
+				<heading>3.555771882111124</heading>
+				<tilt>30.00123050876227</tilt>
+				<range>273.9615086303029</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79134081246963,24.80733328167516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11.SIITM</name>
+			<description>SIITM</description>
+			<LookAt>
+				<longitude>92.79185141913085</longitude>
+				<latitude>24.79843502457379</latitude>
+				<altitude>0</altitude>
+				<heading>3.555986357022021</heading>
+				<tilt>30.00128232708456</tilt>
+				<range>285.5447694336972</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79184212674731,24.79805297525162,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12.Durgapally</name>
+			<description>Durgapally</description>
+			<LookAt>
+				<longitude>92.79919438316917</longitude>
+				<latitude>24.78049356068261</latitude>
+				<altitude>0</altitude>
+				<heading>2.756074364425978</heading>
+				<tilt>29.47288451562308</tilt>
+				<range>342.277589119499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79913243162098,24.78043033091362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13.Cachar Cancer Hospital</name>
+			<description>Cachar Cancer Hospital</description>
+			<LookAt>
+				<longitude>92.79754056548472</longitude>
+				<latitude>24.78849916232797</latitude>
+				<altitude>0</altitude>
+				<heading>2.75555949166679</heading>
+				<tilt>21.17991863746383</tilt>
+				<range>170.9310764929286</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79805598621346,24.78861355133207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14.Gandhi Park</name>
+			<description>Gandhi Park</description>
+			<LookAt>
+				<longitude>92.79846415358097</longitude>
+				<latitude>24.82687306174568</latitude>
+				<altitude>0</altitude>
+				<heading>2.744702581457967</heading>
+				<tilt>21.90779486930995</tilt>
+				<range>205.3508409317598</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79823479068844,24.82719752701925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15.Devdoot</name>
+			<description>Devdoot</description>
+			<LookAt>
+				<longitude>92.79967868896011</longitude>
+				<latitude>24.82835104788058</latitude>
+				<altitude>0</altitude>
+				<heading>1.355827330118047</heading>
+				<tilt>35.18813514493429</tilt>
+				<range>224.8343876337727</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79979169054107,24.82866173572797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16.Head Post Office</name>
+			<description>Head Post Office</description>
+			<LookAt>
+				<longitude>92.80065964314937</longitude>
+				<latitude>24.82945156444354</latitude>
+				<altitude>0</altitude>
+				<heading>1.348832626246141</heading>
+				<tilt>27.50710889514265</tilt>
+				<range>278.3797928343916</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.80178727253913,24.83020857450535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17.Cachar College</name>
+			<description>Cachar College</description>
+			<LookAt>
+				<longitude>92.79938337315062</longitude>
+				<latitude>24.83162391040809</latitude>
+				<altitude>0</altitude>
+				<heading>1.346061082545825</heading>
+				<tilt>25.86040361721987</tilt>
+				<range>154.5759764624026</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79926491241484,24.83152951191208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18.Police Playground</name>
+			<description>Police Playground</description>
+			<LookAt>
+				<longitude>92.7963701240905</longitude>
+				<latitude>24.83061011476561</latitude>
+				<altitude>0</altitude>
+				<heading>1.344795647900683</heading>
+				<tilt>25.86146119209567</tilt>
+				<range>424.4704796878041</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79654524871971,24.83063559819685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.All India Radio, Silchar</name>
+			<description>All India Radio, Silchar</description>
+			<LookAt>
+				<longitude>92.79602581528435</longitude>
+				<latitude>24.831650589586</latitude>
+				<altitude>0</altitude>
+				<heading>1.340177208241861</heading>
+				<tilt>23.01360712991344</tilt>
+				<range>167.2805791346388</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79614101723574,24.83175056814633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20.District Sports Association Stadium</name>
+			<description>District Sports Association Stadium</description>
+			<LookAt>
+				<longitude>92.79843798157822</longitude>
+				<latitude>24.83009481452482</latitude>
+				<altitude>0</altitude>
+				<heading>1.350842671957567</heading>
+				<tilt>30.00121417915873</tilt>
+				<range>270.3323336339053</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79883248507126,24.82956477603719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>24.Ghunghoor Police Outpost</name>
+			<description>Ghunghoor Police Outpost</description>
+			<LookAt>
+				<longitude>92.79371209747313</longitude>
+				<latitude>24.77810058777877</latitude>
+				<altitude>0</altitude>
+				<heading>5.754555657832166</heading>
+				<tilt>29.33767201278525</tilt>
+				<range>238.0690044312975</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79347915322121,24.77797435144322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25.Goldighi Mall</name>
+			<description>Goldighi Mall</description>
+			<LookAt>
+				<longitude>92.80009406095411</longitude>
+				<latitude>24.82280445929266</latitude>
+				<altitude>0</altitude>
+				<heading>5.743258563381136</heading>
+				<tilt>24.82386785316607</tilt>
+				<range>259.1657155476678</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79963973794253,24.82295664128641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>26.Inter State Bus Terminus</name>
+			<description>Inter State Bus Terminus</description>
+			<LookAt>
+				<longitude>92.75043783733956</longitude>
+				<latitude>24.8294095931446</latitude>
+				<altitude>0</altitude>
+				<heading>5.726161648321528</heading>
+				<tilt>25.92047596738094</tilt>
+				<range>416.6746213499324</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.75138476790629,24.82913943276879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>45.Ghunghoor Market</name>
+			<description>Ghunghoor Market</description>
+			<Camera>
+				<longitude>92.79303514480938</longitude>
+				<latitude>24.7632815613118</latitude>
+				<altitude>1356.014504322099</altitude>
+				<heading>5.9940071726572</heading>
+				<tilt>20.24418311908786</tilt>
+				<roll>1.552227291368943</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79259258366976,24.77002234956246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>46.Government Dental College</name>
+			<description>Government Dental College</description>
+			<Camera>
+				<longitude>92.79114313897874</longitude>
+				<latitude>24.76497120600617</latitude>
+				<altitude>1356.014504323515</altitude>
+				<heading>5.993214692747627</heading>
+				<tilt>20.2441831190879</tilt>
+				<roll>1.552227291368985</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79084456553296,24.77295491869042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>47.Jeevan Jyoti Hospital</name>
+			<description>Jeevan Jyoti Hospital</description>
+			<Camera>
+				<longitude>92.79445680826781</longitude>
+				<latitude>24.78323289075368</latitude>
+				<altitude>1949.225523664927</altitude>
+				<heading>5.963103027485257</heading>
+				<tilt>20.66347903529408</tilt>
+				<roll>1.508206123467674</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79327227010926,24.78787191844083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>48.Nightingale Hospital</name>
+			<description>Nightingale Hospital</description>
+			<Camera>
+				<longitude>92.79417330303599</longitude>
+				<latitude>24.78435059952315</latitude>
+				<altitude>1949.22552366351</altitude>
+				<heading>5.9629841602155</heading>
+				<tilt>20.66347903529408</tilt>
+				<roll>1.508206123467631</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79284140598767,24.79286279505579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>49.Radhamadhab College</name>
+			<description>Radhamadhab College</description>
+			<Camera>
+				<longitude>92.80035660484593</longitude>
+				<latitude>24.80520054724865</latitude>
+				<altitude>774.8875231821465</altitude>
+				<heading>5.76812726694296</heading>
+				<tilt>23.67444897722586</tilt>
+				<roll>1.326799678672963</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.80069483934258,24.80897213803279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>50.Civil Hospital</name>
+			<description>Civil Hospital</description>
+			<Camera>
+				<longitude>92.79852876134329</longitude>
+				<latitude>24.81671563819387</latitude>
+				<altitude>328.3483751312208</altitude>
+				<heading>5.777539297969899</heading>
+				<tilt>23.49913787521615</tilt>
+				<roll>1.335285579786352</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79790349631642,24.81838202856451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>51.Ramanuj Gupta Jr College</name>
+			<description>Ramanuj Gupta Jr College</description>
+			<Camera>
+				<longitude>92.79478939072898</longitude>
+				<latitude>24.816174968977</latitude>
+				<altitude>637.9766101759357</altitude>
+				<heading>5.756065856189809</heading>
+				<tilt>23.84446758556464</tilt>
+				<roll>1.31643012555305</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79453943126245,24.8192499598751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>52.Mission Compound</name>
+			<description>Mission Compound</description>
+			<Camera>
+				<longitude>92.79522819049028</longitude>
+				<latitude>24.8209955694833</latitude>
+				<altitude>265.1356739832456</altitude>
+				<heading>6.08092903700065</heading>
+				<tilt>19.19556641054547</tilt>
+				<roll>1.61916114572138</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79551554213987,24.82236289000428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>53.Women&apos;s College</name>
+			<description>Women&apos;s College</description>
+			<Camera>
+				<longitude>92.79676503222974</longitude>
+				<latitude>24.82121910828836</latitude>
+				<altitude>456.3487307103404</altitude>
+				<heading>6.134212050513862</heading>
+				<tilt>18.60156108156118</tilt>
+				<roll>1.669119399646754</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79735635035333,24.8232212677164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>54.A.K. Chanda Law College</name>
+			<description>A.K. Chanda Law College</description>
+			<Camera>
+				<longitude>92.79373520318053</longitude>
+				<latitude>24.8267372865352</latitude>
+				<altitude>560.9649940863015</altitude>
+				<heading>6.169722251406211</heading>
+				<tilt>18.20639582223611</tilt>
+				<roll>1.702781994297817</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.7918776448945,24.82895653684892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>55. Burrows Memorial Christian Hospital</name>
+			<description>Burrows Memorial Christian Hospital</description>
+			<Camera>
+				<longitude>92.95005104969876</longitude>
+				<latitude>24.81958694623122</latitude>
+				<altitude>965.4695490917923</altitude>
+				<heading>5.80328997857177</heading>
+				<tilt>23.95592557979466</tilt>
+				<roll>1.361272261738611</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.94890599147605,24.82377482274927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>56.Ranigaon Railwaw Station</name>
+			<description>Ranigaon Railwaw Station</description>
+			<Camera>
+				<longitude>92.96345334835567</longitude>
+				<latitude>24.81298194228516</latitude>
+				<altitude>1202.018734135681</altitude>
+				<heading>5.879441145954675</heading>
+				<tilt>22.81241958366255</tilt>
+				<roll>1.434347300484232</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.96458426072986,24.81910742898673,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>57.Moinar Bond Railway Station</name>
+			<description>Moinar Bond Railway Station</description>
+			<Camera>
+				<longitude>92.90876182904164</longitude>
+				<latitude>24.81211424589918</latitude>
+				<altitude>3111.951996802055</altitude>
+				<heading>5.740371706774828</heading>
+				<tilt>24.81628366704429</tilt>
+				<roll>1.28729081770973</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.90802022556038,24.82476760221514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>58.Cachar Police Guest House</name>
+			<description>Cachar Police Guest House</description>
+			<Camera>
+				<longitude>92.79195200916941</longitude>
+				<latitude>24.79519434899412</latitude>
+				<altitude>775.7802748441478</altitude>
+				<heading>5.544257868239152</heading>
+				<tilt>28.24828397835281</tilt>
+				<roll>1.030649077874298</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79334652802739,24.80074767905662,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>59.Central Water Commission</name>
+			<description>Central Water Commission</description>
+			<Camera>
+				<longitude>92.79667042150723</longitude>
+				<latitude>24.8022036144026</latitude>
+				<altitude>530.4510079509681</altitude>
+				<heading>5.679753190577343</heading>
+				<tilt>25.08884859518273</tilt>
+				<roll>1.156612420432085</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79636442714319,24.8042905385773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>60.Srikona</name>
+			<description>Srikona</description>
+			<Camera>
+				<longitude>92.71164931204639</longitude>
+				<latitude>24.82935744178993</latitude>
+				<altitude>2476.593137240256</altitude>
+				<heading>34.13153341609473</heading>
+				<tilt>13.01981714221939</tilt>
+				<roll>0.7382416475181228</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.71555617500225,24.83500168191353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>61.Powergrid Corporation of India Limited</name>
+			<description>Powergrid Corporation of India Limited</description>
+			<LookAt>
+				<longitude>92.72152398518148</longitude>
+				<latitude>24.82871739951173</latitude>
+				<altitude>0</altitude>
+				<heading>33.72750908055656</heading>
+				<tilt>28.02565249861855</tilt>
+				<range>785.6994982188539</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.72078250866518,24.8280963904335,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>21.Arunachal Junction Railway Station</name>
+			<description>Arunachal Junction Railway Station</description>
+			<LookAt>
+				<longitude>92.74376362833111</longitude>
+				<latitude>24.85557032173639</latitude>
+				<altitude>0</altitude>
+				<heading>5.733212876633274</heading>
+				<tilt>29.59823589553791</tilt>
+				<range>443.4379497362656</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.74275357966121,24.85552425013712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22.Silchar Railway Station</name>
+			<description>Silchar Railway Station</description>
+			<LookAt>
+				<longitude>92.78745796181342</longitude>
+				<latitude>24.82978406600255</latitude>
+				<altitude>0</altitude>
+				<heading>5.735598968155161</heading>
+				<tilt>24.14230166889893</tilt>
+				<range>266.5934808790225</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.78739934048824,24.83005699506725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>23.Childrens Park</name>
+			<description>Childrens Park</description>
+			<LookAt>
+				<longitude>92.7930943466982</longitude>
+				<latitude>24.82664576235018</latitude>
+				<altitude>0</altitude>
+				<heading>5.744236263838843</heading>
+				<tilt>26.04409375748368</tilt>
+				<range>342.8976388115088</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.79267169434253,24.82679924287135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>27.M.K.Dey College</name>
+			<description>M.K.Dey College</description>
+			<LookAt>
+				<longitude>92.9599739673873</longitude>
+				<latitude>24.61041163702937</latitude>
+				<altitude>0</altitude>
+				<heading>7.012544329481972</heading>
+				<tilt>24.79421176706826</tilt>
+				<range>13646.91801768774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.95582299755124,24.60138230986892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>28.Janata College</name>
+			<description>Janata College</description>
+			<LookAt>
+				<longitude>92.86361769725923</longitude>
+				<latitude>24.66926114261783</latitude>
+				<altitude>0</altitude>
+				<heading>6.97322080391164</heading>
+				<tilt>24.85100247218264</tilt>
+				<range>2137.237201051261</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.85857909166184,24.67030542526549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>29.Lakhipur Jr. College</name>
+			<description>Lakhipur Jr. College</description>
+			<LookAt>
+				<longitude>93.04725186306071</longitude>
+				<latitude>24.78340192309551</latitude>
+				<altitude>0</altitude>
+				<heading>7.046182119539329</heading>
+				<tilt>24.54146807877488</tilt>
+				<range>9361.963569480793</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>93.01814756236755,24.79144699668872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>30.S.M.Dev College</name>
+			<description>S.M.Dev College</description>
+			<LookAt>
+				<longitude>93.00927110831509</longitude>
+				<latitude>24.79601778693261</latitude>
+				<altitude>0</altitude>
+				<heading>7.029260912749282</heading>
+				<tilt>24.37138288295203</tilt>
+				<range>4328.189896665532</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.99996823351255,24.79802819982743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>31.Nehru High School</name>
+			<description>Nehru High School</description>
+			<LookAt>
+				<longitude>93.02625680461166</longitude>
+				<latitude>24.83496973136982</latitude>
+				<altitude>0</altitude>
+				<heading>7.063512973031298</heading>
+				<tilt>28.27889325033359</tilt>
+				<range>4212.983275699101</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>93.02314869474625,24.83104816782408,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>32.Kamranga Railway Station</name>
+			<description>Kamranga Railway Station</description>
+			<LookAt>
+				<longitude>93.0573963564273</longitude>
+				<latitude>24.85087856325502</latitude>
+				<altitude>0</altitude>
+				<heading>7.079064657592619</heading>
+				<tilt>28.69016181806824</tilt>
+				<range>2388.523707648218</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>93.05513882819817,24.85147062631962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>33.Jalalpur PHC</name>
+			<description>Jalalpur PHC</description>
+			<LookAt>
+				<longitude>92.45871472575358</longitude>
+				<latitude>24.98618790486726</latitude>
+				<altitude>0</altitude>
+				<heading>6.804763566213158</heading>
+				<tilt>25.5072883638149</tilt>
+				<range>4049.500836519882</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.45711111330603,24.99153588560138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>34.Tarapur</name>
+			<description>Tarapur</description>
+			<LookAt>
+				<longitude>92.45871472575358</longitude>
+				<latitude>24.98618790486726</latitude>
+				<altitude>0</altitude>
+				<heading>6.804763566213158</heading>
+				<tilt>25.5072883638149</tilt>
+				<range>4049.500836519882</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.44295988870397,24.98789240260819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>35. S.R. College</name>
+			<description>S.R. College</description>
+			<LookAt>
+				<longitude>92.56289759199936</longitude>
+				<latitude>24.96964845579014</latitude>
+				<altitude>0</altitude>
+				<heading>6.846989809028682</heading>
+				<tilt>25.31311229168288</tilt>
+				<range>4367.451702827544</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.56486004808484,24.97304077227506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>36.Chandranathpur Railway Station</name>
+			<description>Chandranathpur Railway Station</description>
+			<LookAt>
+				<longitude>92.69343744230716</longitude>
+				<latitude>24.96481305475328</latitude>
+				<altitude>0</altitude>
+				<heading>6.93979526720911</heading>
+				<tilt>29.50791684605214</tilt>
+				<range>4081.278081830558</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.68945792195134,24.96316210204937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37. 95 BSF Camp Damchera</name>
+			<description>95 BSF Camp Damchera</description>
+			<LookAt>
+				<longitude>92.68747935811186</longitude>
+				<latitude>24.96550024749772</latitude>
+				<altitude>0</altitude>
+				<heading>6.913270241041334</heading>
+				<tilt>26.71690993258967</tilt>
+				<range>923.5043089945099</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.68589827033293,24.96612625170235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>38.Bihara Railway Station</name>
+			<description>Bihara Railway Station</description>
+			<LookAt>
+				<longitude>92.64665720305157</longitude>
+				<latitude>24.95425479611649</latitude>
+				<altitude>0</altitude>
+				<heading>6.911886654262125</heading>
+				<tilt>28.4435604858365</tilt>
+				<range>2364.036553926273</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.64423558695556,24.95269571303401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>39.New Silchar Railway Station</name>
+			<description>New Silchar Railway Station</description>
+			<LookAt>
+				<longitude>92.84169187300247</longitude>
+				<latitude>24.85235803696361</latitude>
+				<altitude>0</altitude>
+				<heading>6.996273060525456</heading>
+				<tilt>28.74459655766075</tilt>
+				<range>6642.686833191698</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.83585325409457,24.85281193542913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40.Narsingpur Hospital</name>
+			<description>Narsingpur Hospital</description>
+			<LookAt>
+				<longitude>92.84471287042298</longitude>
+				<latitude>24.68181701749973</latitude>
+				<altitude>0</altitude>
+				<heading>6.993678771855001</heading>
+				<tilt>28.33924968097144</tilt>
+				<range>2043.831684139324</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.8449382447716,24.68370774019973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>41.Silchar Airport</name>
+			<description>Silchar Airport</description>
+			<LookAt>
+				<longitude>92.97805226182703</longitude>
+				<latitude>24.91275061214527</latitude>
+				<altitude>0</altitude>
+				<heading>7.04769597157036</heading>
+				<tilt>28.02142307831885</tilt>
+				<range>593.4636512477193</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.97849468557023,24.91299429005382,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>42.Damchara Railway Station</name>
+			<description>Damchara Railway Station</description>
+			<Camera>
+				<longitude>92.75016075681964</longitude>
+				<latitude>25.01126400827447</latitude>
+				<altitude>547.2558078232591</altitude>
+				<heading>7.453132013064346</heading>
+				<tilt>9.611786896111877</tilt>
+				<roll>2.76433151918367</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.75005527116248,25.01268831470935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>43.Hilara Railway Station</name>
+			<description>Hilara Railway Station</description>
+			<Camera>
+				<longitude>92.60000020015741</longitude>
+				<latitude>24.93198427048483</latitude>
+				<altitude>2115.051684169399</altitude>
+				<heading>5.809047214948032</heading>
+				<tilt>21.93580973893256</tilt>
+				<roll>1.23428145365389</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.59907821461546,24.93702344566986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>44.Sukritipur Railway Station</name>
+			<description>Sukritipur Railway Station</description>
+			<Camera>
+				<longitude>92.58090771929652</longitude>
+				<latitude>24.89452653021474</latitude>
+				<altitude>1428.998786874427</altitude>
+				<heading>5.687467467647648</heading>
+				<tilt>24.09283552405827</tilt>
+				<roll>1.120490481759016</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#falseColor1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>92.57718689406903,24.90044038627609,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

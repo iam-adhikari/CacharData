@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rain gauge Station</name>
+	<open>1</open>
+	<gx:CascadingStyle kml:id="__managed_style_22D336E0C2146E55474D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle><gx:CascadingStyle kml:id="__managed_style_11DE31CA68146E55474D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A28505714146E55474D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="failed0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="failed1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="__managed_style_0A28505714146E55474D0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Placemark id="0703187D2C1454CBACEC">
+		<name>1. Amraghat</name>
+		<LookAt>
+			<longitude>92.87766942158447</longitude>
+			<latitude>24.79514193046347</latitude>
+			<altitude>10.0694633913044</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>132075.5585323088</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D</styleUrl>
+		<Point>
+			<coordinates>92.95638736263734,24.60357612730885,35.87172456158977</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="065D0598961454CCE859">
+		<name>2. Badarpur</name>
+		<LookAt>
+			<longitude>92.87766942158447</longitude>
+			<latitude>24.79514193046347</latitude>
+			<altitude>10.0694633913044</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>132075.5585323088</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D</styleUrl>
+		<Point>
+			<coordinates>92.59658310439561,24.86082112360246,7.558206070559863</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B10F083EC1454CE5492">
+		<name>3. Barkhola</name>
+		<LookAt>
+			<longitude>92.91269639545483</longitude>
+			<latitude>24.79477074002154</latitude>
+			<altitude>-6.626682831508689</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>155404.1289866343</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D</styleUrl>
+		<Point>
+			<coordinates>92.73040163320724,24.92463732363546,85.59663664170979</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A7C5392671454CF945A">
+		<name>4. Bhanga</name>
+		<LookAt>
+			<longitude>92.71175954104319</longitude>
+			<latitude>24.7592694272278</latitude>
+			<altitude>7.618460368072471</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>93271.82787210682</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D</styleUrl>
+		<Point>
+			<coordinates>92.56027352411903,24.88043061249833,3.939156510682638</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026D8880871454D1132B">
+		<name>5. Bikrampur</name>
+		<LookAt>
+			<longitude>92.7713690433383</longitude>
+			<latitude>24.78982029550432</latitude>
+			<altitude>31.31283896020972</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>67888.56953884476</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D</styleUrl>
+		<Point>
+			<coordinates>92.63042447159728,24.93877030037218,31.43992295015885</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04305B8B6A1454D5758A">
+		<name>6. Dewan</name>
+		<LookAt>
+			<longitude>92.76550844686442</longitude>
+			<latitude>24.85846400187141</latitude>
+			<altitude>5.320071772815911</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>90448.12727185898</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D</styleUrl>
+		<Point>
+			<coordinates>93.02080931137843,24.83835848892856,7.401866456782226</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01C43538561454D74D98">
+		<name>7. Dholai</name>
+		<LookAt>
+			<longitude>92.75014387259147</longitude>
+			<latitude>24.68477647664178</latitude>
+			<altitude>4.439073270677549</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>90449.00542474353</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D</styleUrl>
+		<Point>
+			<coordinates>92.85140893910227,24.60208667287541,11.98757801181958</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D9775908F1454E13378">
+		<name>8. Jafirbond</name>
+		<LookAt>
+			<longitude>92.86117307458485</longitude>
+			<latitude>24.91298728032711</latitude>
+			<altitude>50.24284052942241</altitude>
+			<heading>9.9555409757821</heading>
+			<tilt>15.88348751304705</tilt>
+			<range>1887.115318931756</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>35</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D0</styleUrl>
+		<Point>
+			<coordinates>92.85671630435179,24.91082297778275,35.48999491555851</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BC035747F1454E6E112">
+		<name>9. Lakhipur</name>
+		<LookAt>
+			<longitude>92.57640351641533</longitude>
+			<latitude>24.56778731970524</latitude>
+			<altitude>118.0756568067472</altitude>
+			<heading>9.866429478651439</heading>
+			<tilt>16.26825753695735</tilt>
+			<range>158262.7183636464</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>35</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D0</styleUrl>
+		<Point>
+			<coordinates>93.00480769230769,24.7928772354181,19.06551523661398</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BC2E9E9B41454EE74A0">
+		<name>10. Moneirkhal</name>
+		<LookAt>
+			<longitude>92.9601094210864</longitude>
+			<latitude>24.58578005866926</latitude>
+			<altitude>32.20653914470328</altitude>
+			<heading>6.173775359517778e-09</heading>
+			<tilt>15.88692062221814</tilt>
+			<range>3282.365266131819</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>35</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D0</styleUrl>
+		<Point>
+			<coordinates>92.96050265638765,24.58582724622781,31.96306462208112</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0927AF27C81454F1BCE2">
+		<name>11. Palonghat</name>
+		<LookAt>
+			<longitude>92.88854188674129</longitude>
+			<latitude>24.64436366896038</latitude>
+			<altitude>32.02204816426585</altitude>
+			<heading>5.85924474278816e-09</heading>
+			<tilt>15.88380320081867</tilt>
+			<range>2015.411489903054</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>35</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D0</styleUrl>
+		<Point>
+			<coordinates>92.8885837245645,24.64698360227278,31.79272269647112</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD1E269111454F500DA">
+		<name>12. Salchapara</name>
+		<LookAt>
+			<longitude>92.64278426060474</longitude>
+			<latitude>24.82882839662347</latitude>
+			<altitude>22.93194859087603</altitude>
+			<heading>4.681747885873716e-09</heading>
+			<tilt>15.8942375791412</tilt>
+			<range>6256.046443049565</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>35</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D0</styleUrl>
+		<Point>
+			<coordinates>92.64862358642786,24.83179782475456,21.09132212478262</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="058389B6931454F66855">
+		<name>13. Silchar</name>
+		<LookAt>
+			<longitude>92.78719382044405</longitude>
+			<latitude>24.83195816807744</latitude>
+			<altitude>20.34339804624296</altitude>
+			<heading>5.140044352304352e-09</heading>
+			<tilt>15.88881008960424</tilt>
+			<range>4050.257675000467</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>35</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D0</styleUrl>
+		<Point>
+			<coordinates>92.78120716701029,24.83200004339644,26.36224035655612</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E639BF20E1454F868F5">
+		<name>14. Silchar Aero</name>
+		<LookAt>
+			<longitude>92.96244757791207</longitude>
+			<latitude>24.93290141065713</latitude>
+			<altitude>30.31116653739748</altitude>
+			<heading>1.849390683144241e-09</heading>
+			<tilt>15.97404993556943</tilt>
+			<range>38692.63245337643</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>35</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D0</styleUrl>
+		<Point>
+			<coordinates>92.97995103526515,24.91385096772895,110.2615159757907</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED83F5EA41454F98166">
+		<name>15. Silcuri</name>
+		<LookAt>
+			<longitude>92.76747166693517</longitude>
+			<latitude>24.74588930229292</latitude>
+			<altitude>29.8274231887325</altitude>
+			<heading>5.958434248716307e-09</heading>
+			<tilt>15.95765095125399</tilt>
+			<range>32027.91783673223</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>35</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_0A28505714146E55474D0</styleUrl>
+		<Point>
+			<coordinates>92.77186101124151,24.72472359026416,25.46925216056621</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

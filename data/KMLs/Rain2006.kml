@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CCS_1m202006</name>
+	<LookAt>
+		<longitude>92.8599999685988</longitude>
+		<latitude>24.78003097303784</latitude>
+		<altitude>0</altitude>
+		<heading>-4.167122271095177e-08</heading>
+		<tilt>45.00003097303782</tilt>
+		<range>147987.5560559736</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<styleUrl>#hideChildrenStyle</styleUrl>
+	<Style id="hideChildrenStyle">
+		<ListStyle id="hideChildren">
+			<listItemType>checkHideChildren</listItemType>
+		</ListStyle>
+	</Style>
+	<NetworkLink>
+		<open>1</open>
+		<Region>
+			<LatLonAltBox>
+				<north>25.2</north>
+				<south>24.36</south>
+				<east>93.31999999999999</east>
+				<west>92.40000000000001</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>11</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>0.kml</href>
+			<viewRefreshMode>onRegion</viewRefreshMode>
+		</Link>
+	</NetworkLink>
+</Document>
+</kml>
